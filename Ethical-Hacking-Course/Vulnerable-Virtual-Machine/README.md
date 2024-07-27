@@ -6,13 +6,6 @@ This subfolder contains a custom-designed vulnerable virtual machine (VM) create
 
 The vulnerable VM is based on **Ubuntu Server 20.04 LTS 64-bit** and exposes several services, some of which contain hidden vulnerabilities that can be exploited to gain local access. Additionally, the VM offers multiple ways for a local user to escalate privileges and obtain root access. The vulnerabilities introduced in the VM are realistic, meaning they could be found in real systems.
 
-### Services Installed
-
-- **HTTP Server**
-- **FTP Server**
-- **SMB Server**
-- **SSH Server**
-
 ### Vulnerability Paths
 
 The VM provides three distinct paths (easy, medium, hard) to obtain local access and escalate privileges to root. Each path requires the attacker to first gain local access and then escalate privileges to root, offering challenges for different skill levels.
