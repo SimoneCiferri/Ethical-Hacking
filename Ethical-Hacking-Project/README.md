@@ -12,11 +12,6 @@ In this phase, we designed and implemented a custom vulnerable virtual machine (
 The VM is available for download from Google Drive:
 [Download Vulnerable VM](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
 
-For a detailed design and exploitation guide:
-[Download Design and Writeup](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
-
 ### Phase 2: Penetration Testing
 
 In this phase, we performed penetration testing on a VM designed by another team. This section includes our penetration testing report, documenting our findings, methodologies, and tools used during the testing phase.
-
-Penetration Testing Report: [Report](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
