@@ -10,7 +10,7 @@ The VM is available for download from Google Drive:
 [Download Vulnerable VM](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
 
 For a detailed design and exploitation guide:
-[Download Design and Writeup](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing)
+[Download Design and Writeup](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
 
 ### Phase 2: Penetration Testing
 
