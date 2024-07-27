@@ -4,7 +4,7 @@ Welcome to the Ethical Hacking repository! This repository is dedicated to the p
 
 ## 🔧 Projects
 
-### 💥 Ethical Hacking Course (MSc in Cybersecurity, LM-66, Sapienza)
+### 💥 Ethical Hacking Course (MSc in Cybersecurity, LM-66, Sapienza) 💥
 
 This subfolder contains all materials related to the Ethical Hacking exam conducted at Sapienza University. The exam consists of two phases: designing a vulnerable VM and conducting penetration testing on a VM created by another team.
 
