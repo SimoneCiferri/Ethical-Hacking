@@ -9,10 +9,6 @@ Welcome to the Ethical Hacking repository! This repository is dedicated to the p
 This subfolder contains all materials related to the Ethical Hacking exam conducted at Sapienza University.
 The exam consists of two phases: designing a vulnerable VM and conducting penetration testing on a VM created by another team.
 
-## 📈 Future Projects
-
-Stay tuned for more exciting projects! I plan to add more subfolders with different ethical hacking challenges and tools to help you expand your knowledge and expertise in cybersecurity.
-
 ## ❗Disclaimer
 
 All resources in this repository are for educational purposes only. Use the provided tools and machines responsibly and only in environments where you have explicit permission to test. Unauthorized hacking or penetration testing is illegal and unethical.
