@@ -1,4 +1,4 @@
-# 💥 Ethical Hacking Project (MSc in Cybersecurity, LM-66, Sapienza) 💥
+# 💥Ethical Hacking Project (MSc in Cybersecurity, LM-66, Sapienza)
 
 This project was part of the Ethical Hacking course at Sapienza University. The project was divided into two phases: designing a vulnerable virtual machine (VM) and performing penetration testing on a VM created by another team.
 
