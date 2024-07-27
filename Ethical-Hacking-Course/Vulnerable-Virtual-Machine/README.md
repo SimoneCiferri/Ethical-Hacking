@@ -10,6 +10,12 @@ The vulnerable VM is based on **Ubuntu Server 20.04 LTS 64-bit** and exposes sev
 
 The VM provides three distinct paths (easy, medium, hard) to obtain local access and escalate privileges to root. Each path requires the attacker to first gain local access and then escalate privileges to root, offering challenges for different skill levels.
 
+### Download the VM
+The VM is available for download from Google Drive. Click the link below to download the VM:
+[Download Vulnerable VM](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
+
+For a detailed design and exploitation guide, refer to the [VM Design Report](https://drive.google.com/drive/folders/1M4-EpXrN4JHkClAVfyBYH6qS_WBWMGFe?usp=sharing).
+
 ### Usage Instructions
 
 1. **Setup:**
