@@ -15,3 +15,7 @@ The VM is available for download from Google Drive:
 ## Phase 2: Penetration Testing
 
 In this phase, we performed penetration testing on a VM designed by another team. This section includes our penetration testing report, documenting our findings, methodologies, and tools used during the testing phase.
+
+The penetration testing report is available for download from Google Drive:
+[Download Report](https://drive.google.com/drive/folders/1cDEqQpUZKx1tymvKb90sYhxEFpROW2jl?usp=drive_link).
+
